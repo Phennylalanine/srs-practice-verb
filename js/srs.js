@@ -2,8 +2,14 @@
 
 // Check if the student's answers match the current verb
 export function checkAnswer(verb, presentInput, pastInput) {
-  const isPresentCorrect = presentInput === verb.present.toLowerCase();
-  const isPastCorrect = pastInput === verb.past.toLowerCase();
+  const correctPresent = (verb.verb || '').toLowerCase();
+  const correctPast = (verb.past || '').toLowerCase();
+
+  const userPresent = (presentInput.value || '').toLowerCase().trim();
+  const userPast = (pastInput.value || '').toLowerCase().trim();
+
+  const isPresentCorrect = userPresent === correctPresent;
+  const isPastCorrect = userPast === correctPast;
 
   return {
     present: isPresentCorrect,
