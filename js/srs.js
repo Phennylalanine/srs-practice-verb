@@ -1,16 +1,25 @@
 // js/srs.js
-
 // Check if the student's answers match the current verb
 export function checkAnswer(verb, presentInput, pastInput) {
   const correctPresent = (verb.verb || '').toLowerCase();
   const correctPast = (verb.past || '').toLowerCase();
-
   const userPresent = (presentInput.value || '').toLowerCase().trim();
   const userPast = (pastInput.value || '').toLowerCase().trim();
-
+  
+  // Handle present tense (usually single answer)
   const isPresentCorrect = userPresent === correctPresent;
-  const isPastCorrect = userPast === correctPast;
-
+  
+  // Handle past tense (might have multiple answers like "was/were")
+  let isPastCorrect = false;
+  if (correctPast.includes('/')) {
+    // Split by '/' and check if user answer matches any of the options
+    const pastOptions = correctPast.split('/').map(option => option.trim());
+    isPastCorrect = pastOptions.includes(userPast);
+  } else {
+    // Single answer
+    isPastCorrect = userPast === correctPast;
+  }
+  
   return {
     present: isPresentCorrect,
     past: isPastCorrect,
@@ -21,7 +30,6 @@ export function checkAnswer(verb, presentInput, pastInput) {
 // Update the verb's SRS level based on the result
 export function updateLevel(verb, result) {
   verb.attempts += 1;
-
   if (result.bothCorrect) {
     verb.level = Math.min(verb.level + 1, 5);
   } else if (result.present || result.past) {
