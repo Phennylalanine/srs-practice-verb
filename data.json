@@ -1,202 +1,204 @@
-[
-  {
-    "verb": "be",
-    "past": "was/were",
-    "jp": "である / だった",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "be.mp3",
-    "audioPast": "was.mp3"
-  },
-  {
-    "verb": "have",
-    "past": "had",
-    "jp": "持つ / 持った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "have.mp3",
-    "audioPast": "had.mp3"
-  },
-  {
-    "verb": "do",
-    "past": "did",
-    "jp": "する / した",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "do.mp3",
-    "audioPast": "did.mp3"
-  },
-  {
-    "verb": "say",
-    "past": "said",
-    "jp": "言う / 言った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "say.mp3",
-    "audioPast": "said.mp3"
-  },
-  {
-    "verb": "get",
-    "past": "got",
-    "jp": "得る / 得た",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "get.mp3",
-    "audioPast": "got.mp3"
-  },
-  {
-    "verb": "make",
-    "past": "made",
-    "jp": "作る / 作った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "make.mp3",
-    "audioPast": "made.mp3"
-  },
-  {
-    "verb": "go",
-    "past": "went",
-    "jp": "行く / 行った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "go.mp3",
-    "audioPast": "went.mp3"
-  },
-  {
-    "verb": "know",
-    "past": "knew",
-    "jp": "知る / 知った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "know.mp3",
-    "audioPast": "knew.mp3"
-  },
-  {
-    "verb": "take",
-    "past": "took",
-    "jp": "取る / 取った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "take.mp3",
-    "audioPast": "took.mp3"
-  },
-  {
-    "verb": "see",
-    "past": "saw",
-    "jp": "見る / 見た",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "see.mp3",
-    "audioPast": "saw.mp3"
-  },
-  {
-    "verb": "come",
-    "past": "came",
-    "jp": "来る / 来た",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "come.mp3",
-    "audioPast": "came.mp3"
-  },
-  {
-    "verb": "think",
-    "past": "thought",
-    "jp": "思う / 思った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "think.mp3",
-    "audioPast": "thought.mp3"
-  },
-  {
-    "verb": "give",
-    "past": "gave",
-    "jp": "与える / 与えた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "give.mp3",
-    "audioPast": "gave.mp3"
-  },
-  {
-    "verb": "find",
-    "past": "found",
-    "jp": "見つける / 見つけた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "find.mp3",
-    "audioPast": "found.mp3"
-  },
-  {
-    "verb": "tell",
-    "past": "told",
-    "jp": "告げる / 告げた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "tell.mp3",
-    "audioPast": "told.mp3"
-  },
-  {
-    "verb": "become",
-    "past": "became",
-    "jp": "なる / なった",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "become.mp3",
-    "audioPast": "became.mp3"
-  },
-  {
-    "verb": "feel",
-    "past": "felt",
-    "jp": "感じる / 感じた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "feel.mp3",
-    "audioPast": "felt.mp3"
-  },
-  {
-    "verb": "leave",
-    "past": "left",
-    "jp": "去る / 去った",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "leave.mp3",
-    "audioPast": "left.mp3"
-  },
-  {
-    "verb": "put",
-    "past": "put",
-    "jp": "置く / 置いた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "put.mp3",
-    "audioPast": "put.mp3"
-  },
-  {
-    "verb": "bring",
-    "past": "brought",
-    "jp": "持ってくる / 持ってきた",
-    "level": 0,
-    "nextReview": "2025-07-10T00:00:00Z",
-    "attempts": 3,
-    "audioPresent": "bring.mp3",
-    "audioPast": "brought.mp3"
-  }
-]
+{
+  "verbs": [
+    {
+      "verb": "be",
+      "past": "was/were",
+      "jp": "である / だった",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "be.mp3",
+      "audioPast": "was.mp3"
+    },
+    {
+      "verb": "have",
+      "past": "had",
+      "jp": "持つ / 持った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "have.mp3",
+      "audioPast": "had.mp3"
+    },
+    {
+      "verb": "do",
+      "past": "did",
+      "jp": "する / した",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "do.mp3",
+      "audioPast": "did.mp3"
+    },
+    {
+      "verb": "say",
+      "past": "said",
+      "jp": "言う / 言った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "say.mp3",
+      "audioPast": "said.mp3"
+    },
+    {
+      "verb": "get",
+      "past": "got",
+      "jp": "得る / 得た",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "get.mp3",
+      "audioPast": "got.mp3"
+    },
+    {
+      "verb": "make",
+      "past": "made",
+      "jp": "作る / 作った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "make.mp3",
+      "audioPast": "made.mp3"
+    },
+    {
+      "verb": "go",
+      "past": "went",
+      "jp": "行く / 行った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "go.mp3",
+      "audioPast": "went.mp3"
+    },
+    {
+      "verb": "know",
+      "past": "knew",
+      "jp": "知る / 知った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "know.mp3",
+      "audioPast": "knew.mp3"
+    },
+    {
+      "verb": "take",
+      "past": "took",
+      "jp": "取る / 取った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "take.mp3",
+      "audioPast": "took.mp3"
+    },
+    {
+      "verb": "see",
+      "past": "saw",
+      "jp": "見る / 見た",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "see.mp3",
+      "audioPast": "saw.mp3"
+    },
+    {
+      "verb": "come",
+      "past": "came",
+      "jp": "来る / 来た",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "come.mp3",
+      "audioPast": "came.mp3"
+    },
+    {
+      "verb": "think",
+      "past": "thought",
+      "jp": "思う / 思った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "think.mp3",
+      "audioPast": "thought.mp3"
+    },
+    {
+      "verb": "give",
+      "past": "gave",
+      "jp": "与える / 与えた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "give.mp3",
+      "audioPast": "gave.mp3"
+    },
+    {
+      "verb": "find",
+      "past": "found",
+      "jp": "見つける / 見つけた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "find.mp3",
+      "audioPast": "found.mp3"
+    },
+    {
+      "verb": "tell",
+      "past": "told",
+      "jp": "告げる / 告げた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "tell.mp3",
+      "audioPast": "told.mp3"
+    },
+    {
+      "verb": "become",
+      "past": "became",
+      "jp": "なる / なった",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "become.mp3",
+      "audioPast": "became.mp3"
+    },
+    {
+      "verb": "feel",
+      "past": "felt",
+      "jp": "感じる / 感じた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "feel.mp3",
+      "audioPast": "felt.mp3"
+    },
+    {
+      "verb": "leave",
+      "past": "left",
+      "jp": "去る / 去った",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "leave.mp3",
+      "audioPast": "left.mp3"
+    },
+    {
+      "verb": "put",
+      "past": "put",
+      "jp": "置く / 置いた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "put.mp3",
+      "audioPast": "put.mp3"
+    },
+    {
+      "verb": "bring",
+      "past": "brought",
+      "jp": "持ってくる / 持ってきた",
+      "level": 0,
+      "nextReview": "2025-07-10T00:00:00Z",
+      "attempts": 3,
+      "audioPresent": "bring.mp3",
+      "audioPast": "brought.mp3"
+    }
+  ]
+}
