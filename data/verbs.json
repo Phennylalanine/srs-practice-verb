@@ -3,11 +3,22 @@
     "verb": "be",
     "past": "was/were",
     "jp-present": "である",
-     "jp-past": "だった",
+    "jp-past": "だった",
     "level": 0,
     "nextReview": "2025-07-10T00:00:00Z",
     "attempts": 3,
     "audioPresent": "be.mp3",
     "audioPast": "was.mp3"
   },
- 
+  {
+    "verb": "eat",
+    "past": "ate",
+    "jp-present": "食べる",
+    "jp-past": "食べた",
+    "level": 0,
+    "nextReview": "2025-07-10T00:00:00Z",
+    "attempts": 1,
+    "audioPresent": "eat.mp3",
+    "audioPast": "ate.mp3"
+  }
+]
