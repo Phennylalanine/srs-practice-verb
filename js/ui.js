@@ -7,7 +7,7 @@ export function renderCard(verb) {
   const pastInput = document.getElementById('pastInput');
   const feedback = document.getElementById('feedback');
 
-  jpText.textContent = verb.jp;
+  jpText.textContent = `${verb['jp-present']} / ${verb['jp-past']}`;
   presentInput.value = '';
   pastInput.value = '';
   feedback.textContent = '';
