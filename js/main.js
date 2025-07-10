@@ -20,11 +20,11 @@ function startSession() {
 
 function setupEventHandlers() {
   document.getElementById('checkBtn').addEventListener('click', () => {
-  const presentInput = document.getElementById('presentInput');
-  const pastInput = document.getElementById('pastInput');
-  const result = checkAnswer(currentVerb, presentInput, pastInput);
-
+    const presentInput = document.getElementById('presentInput');
+    const pastInput = document.getElementById('pastInput');
+    const currentVerb = verbs[currentIndex]; // Add this line to define currentVerb
     const result = checkAnswer(currentVerb, presentInput, pastInput);
+
     updateLevel(currentVerb, result);
     showFeedback(getFeedbackMessage(result), result);
     showNextButton();
